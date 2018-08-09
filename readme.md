@@ -1,4 +1,4 @@
-Blog
+<h1>Blog</h1>
 
 Installation:-
 1 :-First Configure the database user credentials
