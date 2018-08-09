@@ -1,6 +1,9 @@
 <h1>Blog</h1>
 
 Installation:-
-1 :-First Configure the database user credentials
-2:- php artisan migrate
-3:- Populate the blog categories as per your need
+<ol>
+  <li>First Configure the database user credentials in .env file</li>
+  <li>php artisan migrate</li>
+  <li>Populate the blog categories as per your need</li>
+</ol>
+
